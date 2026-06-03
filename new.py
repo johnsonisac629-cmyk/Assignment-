@@ -1,3 +1,5 @@
 print(10+100)
 print("Hi there this is johnson")
 print (1000-75)
+print (20+30)
+print (johnson)
