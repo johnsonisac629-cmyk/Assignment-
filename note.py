@@ -1,3 +1,6 @@
 print ("Hi everyone")
 print ("this is my new file")
 print ("I am learning Python")
+print ("hi there")
+print ("this is my book")
+print ("Eswaran")
